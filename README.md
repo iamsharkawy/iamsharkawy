@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamsharkawy
-- 👀 Business & Tech Enthusiast | Civil Engineer | Full-Stack Web Developer
+- 👀 Business & Tech Enthusiast | Civil Engineer | Front-End Web Developer
 - 💻 I’m interested in Web Development.
 - 🌱 I’m always learning! 
 - 💞️ I’m looking to collaborate on web development projects
