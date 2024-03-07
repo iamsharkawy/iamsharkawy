@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsharkawy
 - 👀 Business & Tech Enthusiast | Civil Engineer | Full-Stack Web Developer
-- 💻 I’m interested in Software Development.
+- 💻 I’m interested in Web Development.
 - 🌱 I’m always learning! 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me, my email: m.sharkawy97@gmail.com
