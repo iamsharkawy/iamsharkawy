@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsharkawy
+- 👋 Hi, I’m Mohamed El-Sharkawy
 - 👀 Business & Tech Enthusiast | Civil Engineer | Front-End Web Developer
 - 💻 I’m interested in Web Development.
 - 🌱 I’m always learning! 
